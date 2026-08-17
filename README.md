@@ -28,3 +28,9 @@ Designed and verified a 32-bit RISC-V CPU in Verilog, integrating PC, Register F
 
 <img width="1044" height="785" alt="image" src="https://github.com/user-attachments/assets/fae82c58-17cf-4a2f-b50d-6d46559b5822" />
 Fig. RISCv Single Cycle Processor
+
+
+# REFERENCES
+1. David Patterson and Hennesy, "Computer Organization and Design: RISCv Edition"
+2. RISCV Green Card
+3. Gemini AI
