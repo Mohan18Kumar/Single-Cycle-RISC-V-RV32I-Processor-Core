@@ -24,5 +24,7 @@ Designed and verified a 32-bit RISC-V CPU in Verilog, integrating PC, Register F
 # 5. Write Back
 - mux2x1
 
-<img width="1044" height="785" alt="image" src="https://github.com/user-attachments/assets/fae82c58-17cf-4a2f-b50d-6d46559b5822" />
+  
 
+<img width="1044" height="785" alt="image" src="https://github.com/user-attachments/assets/fae82c58-17cf-4a2f-b50d-6d46559b5822" />
+Fig. RISCv Single Cycle Processor
