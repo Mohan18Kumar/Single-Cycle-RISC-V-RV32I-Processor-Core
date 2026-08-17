@@ -33,4 +33,4 @@ Fig. RISCv Single Cycle Processor
 # REFERENCES
 1. David Patterson and Hennesy, "Computer Organization and Design: RISCv Edition"
 2. RISCV Green Card
-3. Gemini AI
+3. Gemini AI (for better understanding the concepts)
